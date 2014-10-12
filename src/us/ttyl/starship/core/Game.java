@@ -18,7 +18,7 @@ import us.ttyl.starship.movement.MovementEngine;
  * p - reset game
  * -------------------------
  *  
- * @author test
+ * @author Kurt Ishisaka
  *
  */
 public class Game extends Thread
