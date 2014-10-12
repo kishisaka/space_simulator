@@ -30,7 +30,6 @@ public abstract class MovementEngine
   public abstract void updateDisplacement();
   public abstract void updateFuelUsage();
   public abstract void doOther();
-  public abstract void checkForCollisions();
   
   public double getAcceleration()
   {

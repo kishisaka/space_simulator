@@ -93,10 +93,4 @@ public class CircleEngine extends MovementEngine
 		// TODO Auto-generated method stub
 	}
 
-	@Override
-	public void checkForCollisions() 
-	{
-		
-	}
-
 }
